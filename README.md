@@ -16,10 +16,20 @@ This repository contains all of my JVM research including bytecode, plugins and 
 ## References
 
 ### Books
+#### Java Virtual Machine
+
 | Book | Link |
 | :----- | :------------: |
 | **The Java® Virtual Machine Specification** | [Java SE 8 Edition](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html) |
 | **Languages and Compilers**<BR>Bent Thomsen<br>Department of Computer Science<br>Aalborg University | [Languages and Compilers](http://people.cs.aau.dk/~bt/SPOF06/SPOF06-9-2.pdf) |
+  
+  
+#### Apache Commons BCEL
+
+| Documentation | Link |
+| :----- | :------------: |
+| **Official Documentation** | [Doc page](https://commons.apache.org/proper/commons-bcel/) |
+
 
 ### Articles
 | Article | Link |
