@@ -1,4 +1,6 @@
 [submodule "jasmin-jvm-assemble"]
 	url = https://github.com/AppLoidx/jasmin-jvm-assemble.git
+	path="jasmin-jvm-assemble"
 [submodule "BCEL"]
 	url = https://github.com/AppLoidx/BCEL.git
+	path="BCEL"
