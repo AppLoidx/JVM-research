@@ -26,10 +26,8 @@ This repository contains all of my JVM research including bytecode, plugins and 
   
 #### Apache Commons BCEL
 
-| Documentation | Link |
-| :----- | :------------: |
 | **Official Documentation** | [Doc page](https://commons.apache.org/proper/commons-bcel/) |
-
+| :----- | :------------: |
 
 ### Articles
 | Article | Link |
