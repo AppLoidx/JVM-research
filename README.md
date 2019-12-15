@@ -37,3 +37,4 @@ This repository contains all of my JVM research including bytecode, plugins and 
 | **Introduction to Java Bytecode**| [by Mahmoud Anouti](https://dzone.com/articles/introduction-to-java-bytecode) |
 | **Java bytecode fundamentals** | [arhipov.blogspot](http://arhipov.blogspot.com/2011/01/java-bytecode-fundamentals.html) |
 | **JVM internals** | [blog.jamesdbloom](http://blog.jamesdbloom.com/JVMInternals.html) |
+|Antero Taivalsaari|[Implementing a JavaTM Virtual Machine in the Java Programming Language](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.23.6391&rep=rep1&type=pdf)|
